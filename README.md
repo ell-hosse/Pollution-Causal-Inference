@@ -28,7 +28,7 @@ Visualizations generated from `src/exploratory_analysis.py` help explore distrib
 
 ### Correlation Matrix
 
-![Correlation](outputs/figures/correlation_matrix.png)
+<img src="outputs/figures/correlation_matrix.png" alt="Correlation Matrix" width="500"/>
 
 ---
 
@@ -42,7 +42,7 @@ Visualizations generated from `src/exploratory_analysis.py` help explore distrib
 
 We model assumed causal dependencies using a Directed Acyclic Graph (DAG):
 
-![Causal DAG](outputs/figures/causal_dag.png)
+<img src="outputs/figures/causal_dag.png" alt="ATE Plot" width="400"/>
 
 ---
 
@@ -69,6 +69,6 @@ We applied a placebo treatment test to validate the robustness of the estimated 
 
 A clear illustration of the effect:
 
-![ATE Plot](outputs/results/ate_effect_plot.png)
+<img src="outputs/results/ate_effect_plot.png" alt="ATE Plot" width="400"/>
 
 ---
