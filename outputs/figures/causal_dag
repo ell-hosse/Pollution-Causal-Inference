@@ -1,0 +1,16 @@
+// Causal DAG: NO2 -> RH
+digraph {
+	T [label=Temperature]
+	C [label="CO (Carbon Monoxide)"]
+	X [label="NO2 (Treatment)"]
+	Y [label="RH (Relative Humidity)"]
+	S [label="Time/Season"]
+	S -> T
+	S -> C
+	S -> X
+	S -> Y
+	C -> X
+	T -> Y
+	C -> Y
+	X -> Y
+}
