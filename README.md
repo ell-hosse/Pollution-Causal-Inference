@@ -27,9 +27,9 @@ Visualizations generated from `src/exploratory_analysis.py` help explore distrib
 | C6H6             | ![C6H6_TS](outputs/figures/C6H6GT_timeseries.png) | ![C6H6_Dist](outputs/figures/C6H6GT_distribution.png) |
 
 ### Correlation Matrix
-
+<div align="center">
 <img src="outputs/figures/correlation_matrix.png" alt="Correlation Matrix" width="500"/>
-
+</div>
 ---
 
 ## 🔁 Causal Question
@@ -42,8 +42,9 @@ Visualizations generated from `src/exploratory_analysis.py` help explore distrib
 
 We model assumed causal dependencies using a Directed Acyclic Graph (DAG):
 
+<div align="center">
 <img src="outputs/figures/causal_dag.png" alt="ATE Plot" width="400"/>
-
+</div>
 ---
 
 ## 📈 Estimation and Refutation
@@ -69,6 +70,7 @@ We applied a placebo treatment test to validate the robustness of the estimated 
 
 A clear illustration of the effect:
 
+<div align="center">
 <img src="outputs/results/ate_effect_plot.png" alt="ATE Plot" width="400"/>
-
+</div>
 ---
