@@ -45,6 +45,7 @@ We model assumed causal dependencies using a Directed Acyclic Graph (DAG):
 <div align="center">
 <img src="outputs/figures/causal_dag.png" alt="ATE Plot" width="400"/>
 </div>
+
 ---
 
 ## 📈 Estimation and Refutation
