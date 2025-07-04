@@ -73,4 +73,4 @@ A clear illustration of the effect:
 <div align="center">
 <img src="outputs/results/ate_effect_plot.png" alt="ATE Plot" width="400"/>
 </div>
----
+
