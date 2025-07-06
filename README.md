@@ -30,6 +30,7 @@ Visualizations generated from `src/exploratory_analysis.py` help explore distrib
 <div align="center">
 <img src="outputs/figures/correlation_matrix.png" alt="Correlation Matrix" width="500"/>
 </div>
+
 ---
 
 ## 🔁 Causal Question
